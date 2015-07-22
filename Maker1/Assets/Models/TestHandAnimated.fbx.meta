@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: ea16c8cd3b26d45d98186c0882832cbb
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: EntirePalm
+    100002: Forearm
+    100004: Index
+    100006: Middle
+    100008: Palm
+    100010: Pinky
+    100012: raptor_reloaded_thumb_pin
+    100014: raptor_reloaded_thumb_pin 1
+    100016: raptor_reloaded_thumb_pin_geom_set
+    100018: Ring
+    100020: //RootNode
+    100022: Thumb
+    100024: transform1
+    100026: transform10
+    100028: transform11
+    100030: transform12
+    100032: transform13
+    100034: transform14
+    100036: transform15
+    100038: transform16
+    100040: transform17
+    100042: transform18
+    100044: transform19
+    100046: transform2
+    100048: transform20
+    100050: transform21
+    100052: transform22
+    100054: transform23
+    100056: transform24
+    100058: transform25
+    100060: transform26
+    100062: transform27
+    100064: transform28
+    100066: transform29
+    100068: transform3
+    100070: transform30
+    100072: transform31
+    100074: transform4
+    100076: transform5
+    100078: transform6
+    100080: transform7
+    100082: transform8
+    100084: transform9
+    400000: EntirePalm
+    400002: Forearm
+    400004: Index
+    400006: Middle
+    400008: Palm
+    400010: Pinky
+    400012: raptor_reloaded_thumb_pin
+    400014: raptor_reloaded_thumb_pin 1
+    400016: raptor_reloaded_thumb_pin_geom_set
+    400018: Ring
+    400020: //RootNode
+    400022: Thumb
+    400024: transform1
+    400026: transform10
+    400028: transform11
+    400030: transform12
+    400032: transform13
+    400034: transform14
+    400036: transform15
+    400038: transform16
+    400040: transform17
+    400042: transform18
+    400044: transform19
+    400046: transform2
+    400048: transform20
+    400050: transform21
+    400052: transform22
+    400054: transform23
+    400056: transform24
+    400058: transform25
+    400060: transform26
+    400062: transform27
+    400064: transform28
+    400066: transform29
+    400068: transform3
+    400070: transform30
+    400072: transform31
+    400074: transform4
+    400076: transform5
+    400078: transform6
+    400080: transform7
+    400082: transform8
+    400084: transform9
+    2300000: transform1
+    2300002: transform10
+    2300004: transform11
+    2300006: transform12
+    2300008: transform13
+    2300010: transform14
+    2300012: transform15
+    2300014: transform16
+    2300016: transform17
+    2300018: transform18
+    2300020: transform19
+    2300022: transform2
+    2300024: transform20
+    2300026: transform21
+    2300028: transform22
+    2300030: transform23
+    2300032: transform24
+    2300034: transform25
+    2300036: transform26
+    2300038: transform27
+    2300040: transform28
+    2300042: transform29
+    2300044: transform3
+    2300046: transform30
+    2300048: transform31
+    2300050: transform4
+    2300052: transform5
+    2300054: transform6
+    2300056: transform7
+    2300058: transform8
+    2300060: transform9
+    3300000: transform1
+    3300002: transform10
+    3300004: transform11
+    3300006: transform12
+    3300008: transform13
+    3300010: transform14
+    3300012: transform15
+    3300014: transform16
+    3300016: transform17
+    3300018: transform18
+    3300020: transform19
+    3300022: transform2
+    3300024: transform20
+    3300026: transform21
+    3300028: transform22
+    3300030: transform23
+    3300032: transform24
+    3300034: transform25
+    3300036: transform26
+    3300038: transform27
+    3300040: transform28
+    3300042: transform29
+    3300044: transform3
+    3300046: transform30
+    3300048: transform31
+    3300050: transform4
+    3300052: transform5
+    3300054: transform6
+    3300056: transform7
+    3300058: transform8
+    3300060: transform9
+    4300000: transform19
+    4300002: transform30
+    4300004: transform24
+    4300006: transform29
+    4300008: transform27
+    4300010: transform28
+    4300012: transform25
+    4300014: transform26
+    4300016: transform6
+    4300018: transform16
+    4300020: transform11
+    4300022: transform5
+    4300024: transform10
+    4300026: transform12
+    4300028: transform4
+    4300030: transform9
+    4300032: transform13
+    4300034: transform3
+    4300036: transform8
+    4300038: transform14
+    4300040: transform2
+    4300042: transform15
+    4300044: transform7
+    4300046: transform1
+    4300048: transform31
+    4300050: transform23
+    4300052: transform21
+    4300054: transform17
+    4300056: transform22
+    4300058: transform20
+    4300060: transform18
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: EntirePalm
+        weight: 1
+      - path: EntirePalm/Palm
+        weight: 1
+      - path: EntirePalm/Palm/transform1
+        weight: 1
+      - path: EntirePalm/Palm/transform17
+        weight: 1
+      - path: EntirePalm/Palm/transform18
+        weight: 1
+      - path: EntirePalm/Palm/transform20
+        weight: 1
+      - path: EntirePalm/Palm/transform21
+        weight: 1
+      - path: EntirePalm/Palm/transform22
+        weight: 1
+      - path: EntirePalm/Palm/transform23
+        weight: 1
+      - path: EntirePalm/Palm/transform31
+        weight: 1
+      - path: EntirePalm/raptor_reloaded_thumb_pin
+        weight: 1
+      - path: EntirePalm/raptor_reloaded_thumb_pin/raptor_reloaded_thumb_pin_geom_set
+        weight: 1
+      - path: EntirePalm/raptor_reloaded_thumb_pin/raptor_reloaded_thumb_pin_geom_set/raptor_reloaded_thumb_pin
+          1
+        weight: 1
+      - path: Forearm
+        weight: 1
+      - path: Forearm/transform19
+        weight: 1
+      - path: Forearm/transform24
+        weight: 1
+      - path: Forearm/transform25
+        weight: 1
+      - path: Forearm/transform26
+        weight: 1
+      - path: Forearm/transform27
+        weight: 1
+      - path: Forearm/transform28
+        weight: 1
+      - path: Forearm/transform29
+        weight: 1
+      - path: Forearm/transform30
+        weight: 1
+      - path: Index
+        weight: 1
+      - path: Index/transform5
+        weight: 1
+      - path: Index/transform10
+        weight: 1
+      - path: Index/transform12
+        weight: 1
+      - path: Middle
+        weight: 1
+      - path: Middle/transform4
+        weight: 1
+      - path: Middle/transform9
+        weight: 1
+      - path: Middle/transform13
+        weight: 1
+      - path: Pinky
+        weight: 1
+      - path: Pinky/transform2
+        weight: 1
+      - path: Pinky/transform7
+        weight: 1
+      - path: Pinky/transform15
+        weight: 1
+      - path: Ring
+        weight: 1
+      - path: Ring/transform3
+        weight: 1
+      - path: Ring/transform8
+        weight: 1
+      - path: Ring/transform14
+        weight: 1
+      - path: Thumb
+        weight: 1
+      - path: Thumb/transform6
+        weight: 1
+      - path: Thumb/transform11
+        weight: 1
+      - path: Thumb/transform16
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

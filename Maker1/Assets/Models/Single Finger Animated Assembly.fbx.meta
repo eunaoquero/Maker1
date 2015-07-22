@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 192311505854949c488b6579a838994d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: FingerAssembly
+    100002: FingerTip
+    100004: Proximal
+    100006: raptor_2_0_finger_pin
+    100008: raptor_2_0_finger_pin_geom_set
+    100010: raptor_2_0_fingertip
+    100012: raptor_2_0_fingertip_geom_set
+    100014: raptor_2_0_proximal
+    100016: raptor_2_0_proximal_geom_set
+    100018: //RootNode
+    100020: Snap_Pin
+    100022: transform1
+    100024: transform2
+    100026: transform3
+    400000: FingerAssembly
+    400002: FingerTip
+    400004: Proximal
+    400006: raptor_2_0_finger_pin
+    400008: raptor_2_0_finger_pin_geom_set
+    400010: raptor_2_0_fingertip
+    400012: raptor_2_0_fingertip_geom_set
+    400014: raptor_2_0_proximal
+    400016: raptor_2_0_proximal_geom_set
+    400018: //RootNode
+    400020: Snap_Pin
+    400022: transform1
+    400024: transform2
+    400026: transform3
+    2300000: transform1
+    2300002: transform2
+    2300004: transform3
+    3300000: transform1
+    3300002: transform2
+    3300004: transform3
+    4300000: transform1
+    4300002: transform3
+    4300004: transform2
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FingerAssembly
+        weight: 1
+      - path: FingerAssembly/transform1
+        weight: 1
+      - path: FingerAssembly/transform2
+        weight: 1
+      - path: FingerAssembly/transform3
+        weight: 1
+      - path: FingerTip
+        weight: 1
+      - path: FingerTip/raptor_2_0_fingertip_geom_set
+        weight: 1
+      - path: FingerTip/raptor_2_0_fingertip_geom_set/raptor_2_0_fingertip
+        weight: 1
+      - path: Proximal
+        weight: 1
+      - path: Proximal/raptor_2_0_proximal_geom_set
+        weight: 1
+      - path: Proximal/raptor_2_0_proximal_geom_set/raptor_2_0_proximal
+        weight: 1
+      - path: Snap_Pin
+        weight: 1
+      - path: Snap_Pin/raptor_2_0_finger_pin_geom_set
+        weight: 1
+      - path: Snap_Pin/raptor_2_0_finger_pin_geom_set/raptor_2_0_finger_pin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
