@@ -91,22 +91,24 @@
      <None Include="Assets\license_3rdpartynotice.txt" />
      <None Include="Assets\Qualcomm Augmented Reality\Shaders\VideoBackground.shader" />
      <None Include="Assets\StreamingAssets\QCAR\RibCageTest.xml" />
+     <None Include="Assets\StreamingAssets\QCAR\StonesAndChips.xml" />
      <None Include="Assets\Editor\QCAR\WebcamProfiles\profiles.xml" />
      <None Include="Assets\Qualcomm Augmented Reality\Shaders\DepthMask.shader" />
+     <None Include="Assets\StreamingAssets\QCAR\Tarmac.xml" />
      <None Include="Assets\Qualcomm Augmented Reality\Shaders\BrightTexture.shader" />
      <None Include="Assets\readme_SDK.txt" />
      <None Include="Assets\Qualcomm Augmented Reality\Shaders\Text3D.shader" />
- <Reference Include="UnityEngine.Analytics">
- <HintPath>/Applications/Development/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>/Applications/Development/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Development/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
- <Reference Include="UnityEngine.UI">
- <HintPath>/Applications/Development/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>/Applications/Development/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Qualcomm.Vuforia.UnityExtensions">
- <HintPath>/Users/eunaoquero/git/ProstheticDemo/Maker1/Assets/Qualcomm Augmented Reality/Scripts/Internal/Qualcomm.Vuforia.UnityExtensions.dll</HintPath>
+ <HintPath>/Users/eunaoquero/git/Maker1/Maker1/Assets/Qualcomm Augmented Reality/Scripts/Internal/Qualcomm.Vuforia.UnityExtensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Development/Unity/Unity.app/Contents/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
