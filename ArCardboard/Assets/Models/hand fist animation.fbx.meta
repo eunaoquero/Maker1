@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: d25b1fc4d0ab64d148ee89d7f3aaf2e6
+timeCreated: 1449876096
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Base
+    100004: Camera
+    100006: Forearm
+    100008: Forearm_end
+    100010: //RootNode
+    100012: IDist
+    100014: IDist_end
+    100016: IMcarp
+    100018: IMid
+    100020: IProx
+    100022: MDist
+    100024: MDist_end
+    100026: MMcarp
+    100028: MMid
+    100030: MProx
+    100032: PDist
+    100034: PDist_end
+    100036: PMcarp
+    100038: PMid
+    100040: PProx
+    100042: RDist
+    100044: RDist_end
+    100046: RMcarp
+    100048: RMid
+    100050: RProx
+    100052: Simple Hand Blocky
+    100054: Sun
+    100056: TMcarp
+    100058: TProx
+    100060: TTip.001
+    100062: TTip.001_end
+    400000: Armature
+    400002: Base
+    400004: Camera
+    400006: Forearm
+    400008: Forearm_end
+    400010: //RootNode
+    400012: IDist
+    400014: IDist_end
+    400016: IMcarp
+    400018: IMid
+    400020: IProx
+    400022: MDist
+    400024: MDist_end
+    400026: MMcarp
+    400028: MMid
+    400030: MProx
+    400032: PDist
+    400034: PDist_end
+    400036: PMcarp
+    400038: PMid
+    400040: PProx
+    400042: RDist
+    400044: RDist_end
+    400046: RMcarp
+    400048: RMid
+    400050: RProx
+    400052: Simple Hand Blocky
+    400054: Sun
+    400056: TMcarp
+    400058: TProx
+    400060: TTip.001
+    400062: TTip.001_end
+    4300000: Simple Hand Blocky
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: Simple Hand Blocky
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Base
+        weight: 1
+      - path: Armature/Base/Forearm
+        weight: 1
+      - path: Armature/Base/Forearm/Forearm_end
+        weight: 1
+      - path: Armature/Base/IMcarp
+        weight: 1
+      - path: Armature/Base/IMcarp/IProx
+        weight: 1
+      - path: Armature/Base/IMcarp/IProx/IMid
+        weight: 1
+      - path: Armature/Base/IMcarp/IProx/IMid/IDist
+        weight: 1
+      - path: Armature/Base/IMcarp/IProx/IMid/IDist/IDist_end
+        weight: 1
+      - path: Armature/Base/MMcarp
+        weight: 1
+      - path: Armature/Base/MMcarp/MProx
+        weight: 1
+      - path: Armature/Base/MMcarp/MProx/MMid
+        weight: 1
+      - path: Armature/Base/MMcarp/MProx/MMid/MDist
+        weight: 1
+      - path: Armature/Base/MMcarp/MProx/MMid/MDist/MDist_end
+        weight: 1
+      - path: Armature/Base/PMcarp
+        weight: 1
+      - path: Armature/Base/PMcarp/PProx
+        weight: 1
+      - path: Armature/Base/PMcarp/PProx/PMid
+        weight: 1
+      - path: Armature/Base/PMcarp/PProx/PMid/PDist
+        weight: 1
+      - path: Armature/Base/PMcarp/PProx/PMid/PDist/PDist_end
+        weight: 1
+      - path: Armature/Base/RMcarp
+        weight: 1
+      - path: Armature/Base/RMcarp/RProx
+        weight: 1
+      - path: Armature/Base/RMcarp/RProx/RMid
+        weight: 1
+      - path: Armature/Base/RMcarp/RProx/RMid/RDist
+        weight: 1
+      - path: Armature/Base/RMcarp/RProx/RMid/RDist/RDist_end
+        weight: 1
+      - path: Armature/Base/TMcarp
+        weight: 1
+      - path: Armature/Base/TMcarp/TProx
+        weight: 1
+      - path: Armature/Base/TMcarp/TProx/TTip.001
+        weight: 1
+      - path: Armature/Base/TMcarp/TProx/TTip.001/TTip.001_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Simple Hand Blocky
+        weight: 1
+      - path: Sun
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
